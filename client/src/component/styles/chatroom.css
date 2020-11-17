@@ -1,0 +1,15 @@
+.ownMessage {
+  background-color: antiquewhite;
+  text-align: right;
+  margin-top: 1rem;
+  /* width: 30%; */
+  padding: 1rem;
+}
+.otherMessage {
+  background-color: rgb(206, 189, 204);
+  color: white;
+  text-align: left;
+  margin-top: 1rem;
+  /* width: 30%; */
+  padding: 1rem;
+}
