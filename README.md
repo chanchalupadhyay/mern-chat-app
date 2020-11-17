@@ -32,8 +32,7 @@ Open http://localhost:3000 to view the client in the browser.
 ### Login Page
 <img width="400" alt="login" src="https://user-images.githubusercontent.com/62138879/98604388-92d45980-2309-11eb-8193-53b3b8be861a.PNG">
 
-### Dashboard
-<img width="400" alt="dash" src="https://user-images.githubusercontent.com/62138879/98604439-ada6ce00-2309-11eb-88b3-be5f0e3c50a1.PNG">
+
 
 ### chatbox
-<img width="400" alt="chatbox" src="https://user-images.githubusercontent.com/62138879/98604463-b7303600-2309-11eb-8bbb-73167e0fa368.PNG">
+<img width="400" alt="chatbox" src="https://user-images.githubusercontent.com/62138879/99388987-6073bf00-28fc-11eb-9ee4-996a9346ca91.PNG">
